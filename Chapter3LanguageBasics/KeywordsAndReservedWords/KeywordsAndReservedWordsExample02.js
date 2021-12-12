@@ -1,16 +1,15 @@
-Always reserved:
+// Always reserved:
 
-enum        
-
-
-Reserved in strict mode:
-
-implements  package     public
-interface   protected   static
-let         private
+// enum        
 
 
-Reserved in module code:
+// Reserved in strict mode:
 
-await
+// implements  package     public
+// interface   protected   static
+// let         private
 
+
+// Reserved in module code:
+
+// await

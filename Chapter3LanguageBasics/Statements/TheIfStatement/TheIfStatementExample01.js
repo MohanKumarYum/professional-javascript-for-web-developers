@@ -1,1 +1,1 @@
-if (condition) statement1 else statement2
+// if (condition) statement1 else statement2;

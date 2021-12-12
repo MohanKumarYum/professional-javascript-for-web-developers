@@ -1,1 +1,1 @@
-label: statement
+// label: statement

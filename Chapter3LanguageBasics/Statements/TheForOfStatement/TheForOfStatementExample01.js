@@ -1,1 +1,1 @@
-for (property of expression) statement
+// for (property of expression) statement;

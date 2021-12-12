@@ -1,1 +1,1 @@
-for (initialization; expression; post-loop-expression) statement
+// for (initialization; expression; post - loop - expression) statement;

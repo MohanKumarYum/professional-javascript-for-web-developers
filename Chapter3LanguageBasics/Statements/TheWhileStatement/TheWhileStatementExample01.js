@@ -1,1 +1,1 @@
-while(expression) statement
+// while(expression) statement
